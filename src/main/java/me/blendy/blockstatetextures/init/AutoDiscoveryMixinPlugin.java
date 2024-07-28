@@ -1,4 +1,4 @@
-package com.github.blendydev.blockstatetextures.init;
+package me.blendy.blockstatetextures.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;

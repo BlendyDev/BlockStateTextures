@@ -1,4 +1,4 @@
-package com.github.blendydev.blockstatetextures.mixin;
+package me.blendy.blockstatetextures.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;
